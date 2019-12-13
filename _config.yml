@@ -81,9 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Quan Nguyen"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Ph.D. student - Writer - Oxford comma user"
   location         : "St. Louis"
+  email            : "mailto:quan@wustl.edu"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://scholar.google.com/citations?user=NhVuN_EAAAAJ&hl=en"
@@ -96,20 +97,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "KrisNguyen135"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "http://www.linkedin.com/in/quan-m-nguyen/"
+  # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  # twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
