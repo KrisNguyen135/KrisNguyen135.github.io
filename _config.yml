@@ -84,11 +84,10 @@ author:
   avatar           : "profile.jpg"
   bio              : "Ph.D. student - Writer - Oxford comma user"
   location         : "St. Louis"
-  email            : "mailto:quan@wustl.edu"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://scholar.google.com/citations?user=NhVuN_EAAAAJ&hl=en"
-  email            :
+  email            : "quan@wustl.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
