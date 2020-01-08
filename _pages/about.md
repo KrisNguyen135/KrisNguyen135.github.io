@@ -8,19 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a first-year Ph.D. student in Computer Science at the [McKelvey School of Engineering at Washington University in St. Louis](https://engineering.wustl.edu/mckelvey/Pages/default.aspx). Prior to this, I received a dual degree in Computer Science and Mathematics, with a minor in Philosophy from [DePauw University](http://depauw.edu/). My research interests are in algorithm design and decision-making theory under uncertainty.
+I am currently a first-year Ph.D. student in Computer Science at the [McKelvey School of Engineering at Washington University in St. Louis](https://engineering.wustl.edu/mckelvey/Pages/default.aspx), co-advised by [Prof. Sanmay Das](https://www.cse.wustl.edu/~sanmay/) and [Prof. Roman Garnett](https://www.cse.wustl.edu/~garnett/). Prior to this, I received a dual degree in Computer Science and Mathematics, with a minor in Philosophy from [DePauw University](http://depauw.edu/). My research interests are in algorithm design and decision-making theory under uncertainty.
 
 I am also an avid programmer and a Python enthusiast. Aside from research, I often write about data science, scientific computing, and Python programming.
 
-My CV, last updated in November 2019, can be found [here](http://KrisNguyen135.github.io/files/CV.pdf).
+My CV, last updated in January 2020, can be found [here](http://KrisNguyen135.github.io/files/CV.pdf).
 
-A few miscellaneous activities I'm engaged in at the moment:
-
-- I am part of a team currently designing and teaching a workshop named _Python Mathematics_, which discusses mathematic and scientific computing techniques in Python. The project is a collaboration between [Packt Publishing](https://www.packtpub.com/) and [Global Knowledge](https://www.globalknowledge.com/).
-- I am in the process of reworking the website for the [CSE department’s Graduate Student Association](https://www.cse.wustl.edu/csegsa/) at WashU. Suggestions are most welcomed!
-- I am currently working on a [pure-white 1000-piece jigsaw puzzle](https://www.amazon.com.au/worlds-smallest-Jigsaw-White-hell-M71-847/dp/B008DCQE3O).
-
-Though not a student at the school, I was recently introduced to the __Reasonable Person Principle__ at the School of Computer Science at CMU and fully endorse it. It follows:
+Though not a student at the school, I was recently introduced to the __Reasonable Person Principle__ at the School of Computer Science at CMU and fully endorse it:
 - Everyone will be reasonable.
 - Everyone expects everyone else to be reasonable.
 - No one is special.
@@ -40,6 +34,14 @@ __July 2019__: I became a three-time recipient of the _International Student Sch
 
 __May 2019__: I graduated from DePauw University summa cum laude! Big thanks to my academic advisors, Prof. Khadija Stewart, Prof. Zhixin Wu, and Prof. Alex Puzzo.
 
+# Current projects
+
+Aside from research, a few miscellaneous activities I'm engaged in at the moment are:
+
+- I am part of a team currently designing and teaching a workshop named _Python Mathematics_, which discusses mathematic and scientific computing techniques in Python. The project is a collaboration between [Packt Publishing](https://www.packtpub.com/) and [Global Knowledge](https://www.globalknowledge.com/).
+- I am in the process of reworking the website for the [CSE department’s Graduate Student Association](https://www.cse.wustl.edu/csegsa/) at WashU. Suggestions are most welcomed!
+- I am currently working on a [pure-white 1000-piece jigsaw puzzle](https://www.amazon.com.au/worlds-smallest-Jigsaw-White-hell-M71-847/dp/B008DCQE3O).
+
 ___
 
-__[Last updated in December 2019]__
+__[Last updated in January 2020]__
