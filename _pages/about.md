@@ -8,21 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a first-year Ph.D. student in Computer Science at the [McKelvey School of Engineering at Washington University in St. Louis](https://engineering.wustl.edu/mckelvey/Pages/default.aspx), co-advised by [Prof. Sanmay Das](https://www.cse.wustl.edu/~sanmay/) and [Prof. Roman Garnett](https://www.cse.wustl.edu/~garnett/). Prior to this, I received a dual degree in Computer Science and Mathematics, with a minor in Philosophy from [DePauw University](http://depauw.edu/). My research interests are in algorithm design and decision-making theory under uncertainty.
+I am currently a first-year Ph.D. student in Computer Science at the [McKelvey School of Engineering at Washington University in St. Louis](https://engineering.wustl.edu/mckelvey/Pages/default.aspx), co-advised by [Prof. Sanmay Das](https://www.cse.wustl.edu/~sanmay/) and [Prof. Roman Garnett](https://www.cse.wustl.edu/~garnett/). Prior to this, I received a double degree in Computer Science and Mathematics, with a minor in Philosophy from [DePauw University](http://depauw.edu/). My research interests are in algorithm design and decision-making theory under uncertainty.
 
 I am also an avid programmer and a Python enthusiast. Aside from research, I often write about data science, scientific computing, and Python programming.
 
 My CV, last updated in January 2020, can be found [here](http://KrisNguyen135.github.io/files/CV.pdf).
 
-Though not a student at the school, I was recently introduced to the __Reasonable Person Principle__ at the School of Computer Science at CMU and fully endorse it:
+Though not a student at the school, I was introduced to and am a fan of the __Reasonable Person Principle__ at the School of Computer Science at CMU:
 - Everyone will be reasonable.
 - Everyone expects everyone else to be reasonable.
 - No one is special.
 - Do not be offended if someone suggests you are not being reasonable.
 
-# News
+# Recent news
 
-Latest 5 (the complete list can be found [here](http://KrisNguyen135.github.io/news/)):
+__February 2020__: I'm excited to announce that the online course that I've been designing for the past couple of months, [Deep learning with Google Colab](https://www.udemy.com/course/deep-learning-with-google-colab/), has recently been published on Udemy.
 
 __December 2019__: I was selected to serve on the [Liberman Graduate Center Advisory Committee](https://graduateschool.wustl.edu/liberman-center) at WashU.
 
@@ -31,8 +31,6 @@ __September 2019__: My second book with Packt Publishing, [Hands-on Application 
 __August 2019__: I started my Ph.D. program at the [McKelvey School of Engineering at Washington University in St. Louis](https://engineering.wustl.edu/mckelvey/Pages/default.aspx).
 
 __July 2019__: I became a three-time recipient of the _International Student Scholarship_ from [Sigma Nu National Fraternity's Educational Foundation](https://www.sigmanu.org/the-delta/magazine/v134n2/updates-from-lexington/snef-scholarships-recipients).
-
-__May 2019__: I graduated from DePauw University summa cum laude! Big thanks to my academic advisors, Prof. Khadija Stewart, Prof. Zhixin Wu, and Prof. Alex Puzzo.
 
 # Current projects
 
@@ -44,4 +42,4 @@ Aside from research, a few miscellaneous activities I'm engaged in at the moment
 
 ___
 
-__[Last updated in January 2020]__
+__[Last updated in February 2020]__

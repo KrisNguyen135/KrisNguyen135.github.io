@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+__February 2020__: I'm excited to announce that the online course that I've been designing for the past couple of months, [Deep learning with Google Colab](https://www.udemy.com/course/deep-learning-with-google-colab/), has recently been published on Udemy.
+
+
 __December 2019__: I was selected to serve on the [Liberman Graduate Center Advisory Committee](https://graduateschool.wustl.edu/liberman-center) at WashU.
 
 __September 2019__: My second book with Packt Publishing, [Hands-on Application Development with PyCharm](https://www.packtpub.com/programming/hands-on-application-development-with-pycharm) was published.
