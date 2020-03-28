@@ -9,7 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+__March 2020__: I had a great time meeting our prospective students on visiting day at WashU. Check out our Ph.D. programs in [Computer Science](https://cse.wustl.edu/graduate/programs/Pages/phd-programs.aspx) and [Computational & Data Sciences](https://datasciences.wustl.edu/) if you are considering doing a PhD.
+
+__March 2020__: Another online learning project that I took part in designing just got published: the [Python Security Micro Degree](https://codered.eccouncil.org/Microdegrees/MicrodegreeDetails/Python-Security-Micro-Degree) from EC-Council. (The prominent Python programming author [Cody Jackson](https://www.linkedin.com/in/cojackson) was part of the team.)
+
 __February 2020__: I'm excited to announce that the online course that I've been designing for the past couple of months, [Deep learning with Google Colab](https://www.udemy.com/course/deep-learning-with-google-colab/), has recently been published on Udemy.
+
+__January 2020__: I'm extremely honored to officially start a joint Ph.D. advisorship with [Prof. Sanmay Das](https://www.cse.wustl.edu/~sanmay/) and [Prof. Roman Garnett](https://www.cse.wustl.edu/~garnett/).
 
 __December 2019__: I was selected to serve on the [Liberman Graduate Center Advisory Committee](https://graduateschool.wustl.edu/liberman-center) at WashU.
 
