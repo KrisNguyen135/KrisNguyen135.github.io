@@ -12,7 +12,7 @@ I am currently a first-year Ph.D. student in Computer Science at the [McKelvey S
 
 I am also an avid programmer and a Python enthusiast. Aside from research, I often write about data science, scientific computing, and Python programming.
 
-My CV, last updated in January 2020, can be found [here](http://KrisNguyen135.github.io/files/CV.pdf).
+My CV, last updated in March 2020, can be found [here](http://KrisNguyen135.github.io/files/CV.pdf).
 
 Though not a student at the school, I was introduced to and am a fan of the __Reasonable Person Principle__ at the School of Computer Science at CMU:
 - Everyone will be reasonable.
