@@ -14,12 +14,6 @@ I am also an avid programmer and a Python enthusiast. Aside from research, I oft
 
 My CV, last updated in March 2020, can be found [here](http://KrisNguyen135.github.io/files/CV.pdf).
 
-Though not a student at the school, I was introduced to and am a fan of the __Reasonable Person Principle__ at the School of Computer Science at CMU:
-- Everyone will be reasonable.
-- Everyone expects everyone else to be reasonable.
-- No one is special.
-- Do not be offended if someone suggests you are not being reasonable.
-
 # Recent news
 
 __March 2020__: I had a great time meeting our prospective students on visiting day at WashU. Check out our Ph.D. programs in [Computer Science](https://cse.wustl.edu/graduate/programs/Pages/phd-programs.aspx) and [Computational & Data Sciences](https://datasciences.wustl.edu/) if you are considering doing a PhD.
@@ -32,13 +26,47 @@ __January 2020__: I'm extremely honored to officially start a joint Ph.D. adviso
 
 __December 2019__: I was selected to serve on the [Liberman Graduate Center Advisory Committee](https://graduateschool.wustl.edu/liberman-center) at WashU.
 
-# Current projects
+# Miscellaneous projects
 
 Aside from research, a few miscellaneous activities I'm engaged in at the moment are:
 
-- I am part of a team currently designing and teaching a workshop named _Python Mathematics_, which discusses mathematics and scientific computing techniques in Python. The project is a collaboration between [Packt Publishing](https://www.packtpub.com/) and [Global Knowledge](https://www.globalknowledge.com/).
-- I am in the process of reworking the website for the [CSE department’s Graduate Student Association](https://www.cse.wustl.edu/csegsa/) at WashU. Suggestions are most welcomed!
-- I am currently working on a [pure-white 1000-piece jigsaw puzzle](https://www.amazon.com.au/worlds-smallest-Jigsaw-White-hell-M71-847/dp/B008DCQE3O).
+- I am currently involved in designing and teaching two workshops, _Statistics and Calculus with Python_ and _Reinforcement Learning with Python_. These projects belong to an overarching collaboration between [Packt Publishing](https://www.packtpub.com/) and [Global Knowledge](https://www.globalknowledge.com/).
+- Though I only have time during weekends for it now, [Project Euler](https://projecteuler.net) has been a running interest for me. If you are on the platform, feel free to connect using my friend code: __970089_IFFiOeWo2ASm1HPTOpVp3tvIiiJfhQuV__.
+- I am reading through the online book [Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/). Definitely give it a try if you are interested in Bayesian statistics and PyMC3.
+
+# Quotes
+
+Here are some fun quotes/sayings I've collected through the years:
+
+"All truth is one.
+<br/>
+In this light, may science and religion endeavor together for the steady evolution of Mankind:
+<br/>
+From darkness to light,
+<br/>
+From narrowness to broadmindedness,
+<br/>
+From prejudice to tolerance,
+<br/>
+It is the voice of life that calls us
+<br/>
+To come and learn."
+<br/>
+-- _Anonymous_ (_Quoted by Cliff Stoll at the Embedded Systems Conference 2000._)
+
+CMU's Reasonable Person Principle (RPP):
+- Everyone will be reasonable.
+- Everyone expects everyone else to be reasonable.
+- No one is special.
+- Do not be offended if someone suggests you are not being reasonable.
+
+"You keep using that word. I do not think it means what you think it means."
+<br/>
+-- Inigo Montoya, _The Princess Bride_ (1987) (Used in Morey, R., Hoekstra, R., Rouder, J., Lee, M., & Wagenmakers, E.-J. (2015). The fallacy of placing confidence in confidence intervals. Psychonomic Bulletin & Review, 1–21.)
+
+Folk Theorem of Statistical Computing:
+<br/>
+_If you are having computational problems, probably your model is wrong._
 
 ___
 
