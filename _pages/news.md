@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+__December 2020__: My first research paper on _fair resource allocation_ was accepted into the Main Track of AAAI 2021!
+
+__October 2020__: The first ever [PyMCon](https://pymc-devs.github.io/pymcon/) was held and a great success. It was a pleasure chairing the Program Committee.
+
+__August 2020__: Two books that I was a co-author of, [The Statistics and Calculus with Python](https://www.amazon.com/gp/product/B08Q8K6P22/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) and [The Reinforcement Learning Workshop](https://www.amazon.com/gp/product/B08BZSTZ4K/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i3), have been published.
+
 __March 2020__: I had a great time meeting our prospective students on visiting day at WashU. Check out our Ph.D. programs in [Computer Science](https://cse.wustl.edu/graduate/programs/Pages/phd-programs.aspx) and [Computational & Data Sciences](https://datasciences.wustl.edu/) if you are considering doing a PhD.
 
 __March 2020__: Another online learning project that I took part in designing just got published: the [Python Security Micro Degree](https://codered.eccouncil.org/Microdegrees/MicrodegreeDetails/Python-Security-Micro-Degree) from EC-Council. (The prominent Python programming author [Cody Jackson](https://www.linkedin.com/in/cojackson) was part of the team.)
