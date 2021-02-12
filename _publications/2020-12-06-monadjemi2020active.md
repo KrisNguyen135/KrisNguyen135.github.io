@@ -1,7 +1,7 @@
 ---
 title: "Active Visual Analytics: Assisted Data Discovery in Interactive Visualizations via Active Search"
 collection: publications/
-permalink: /publication/monadjemi2020active
+permalink: /publication/2020-12-06-monadjemi2020active
 excerpt: 'We propose the Active Visual Analytics technique (ActiveVA), an augmentation of interactive visualizations with active search to aid data foraging and information extraction.'
 date: 2020-12-06
 venue: 'arXiv preprint'
