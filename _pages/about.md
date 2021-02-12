@@ -30,10 +30,6 @@ __March 2020__: I had a great time meeting our prospective students on visiting 
 
 __March 2020__: Another online learning project that I took part in designing just got published: the [Python Security Micro Degree](https://codered.eccouncil.org/Microdegrees/MicrodegreeDetails/Python-Security-Micro-Degree) from EC-Council. (The prominent Python programming author [Cody Jackson](https://www.linkedin.com/in/cojackson) was part of the team.)
 
-# Research
-
-
-
 ___
 
 __[Last updated in February 2021]__
