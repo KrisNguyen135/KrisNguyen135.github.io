@@ -9,7 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-__December 2020__: My first research paper on _fair resource allocation_ was accepted into the Main Track of AAAI 2021!
+__July 2021__: I was selected to receive the Honors distinction from the CSE department at WashU for exemplary Ph.D. research performance.
+
+__July 2021__: I had a great time meeting with the students from the BrightPath STEAM Academy and talking about my research on Bayesian machine learning for automating scientific discovery.
+
+__May 2021__: Our paper on _multifidelity active search_ was accepted to ICML 2021.
+
+__March 2021__: I passed my Ph.D. oral qualification exam.
+
+__December 2020__: My first research paper on _fair resource allocation_ was accepted into the Main Track of AAAI 2021.
 
 __October 2020__: The first ever [PyMCon](https://pymc-devs.github.io/pymcon/) was held and a great success. It was a pleasure chairing the Program Committee.
 
