@@ -1,11 +1,11 @@
 ---
-title: "Efficient discovery of visible light-activated azoarene photoswitches with long half-lives using active search"
+title: "Efficient Discovery of Visible Light-Activated Azoarene Photoswitches With Long Half-Lives Using Active Search"
 collection: publications/
 permalink: /publication/mukadum2021efficient
 excerpt: 'We apply active search to identify azoarene photoswitches with many chemical desiderata such as high light absorbance and long half-lives.'
-date: 2021-08-09
-venue: 'ChemRxiv preprint'
-citation: 'Fatemah Mukadum, Quan Nguyen, Daniel Adrion, Gabriel Appleby, Rui Chen, Haley Dang, Remco Chang, Roman Garnett, Steven Lopez. Efficient discovery of visible light-activated azoarene photoswitches with long half-lives using active search. <i>ChemRxiv preprint</i>, 2021.'
+date: 2021-11-05
+venue: 'Journal of Chemical Information and Modeling'
+citation: 'Fatemah Mukadum, Quan Nguyen, Daniel Adrion, Gabriel Appleby, Rui Chen, Haley Dang, Remco Chang, Roman Garnett, Steven Lopez. Efficient Discovery of Visible Light-Activated Azoarene Photoswitches With Long Half-Lives Using Active Search. <i>ChemRxiv preprint</i>, 2021.'
 ---
 Photoswitches are molecules that undergo a reversible, structural isomerization after exposure to different wavelengths of light.
 The dynamic control offered by molecular photoswitches is favorable for applications in materials chemistry, photopharmacology, and catalysis.

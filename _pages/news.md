@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+__November 2021__: Our paper on using _active search_ to discover photoswitches with high light absorbance was accepted to the _Journal of Chemical Information and Modeling_! 
+
+__October 2021__: I had an amazing time speaking at this year's [PyData Global](https://pydata.org/global2021) on using Bayesian optimization on preference learning with pairwise comparisons.
+
+__October 2021__: My advisor [Roman Garnett](https://www.cse.wustl.edu/~garnett/)] released a preliminary draft of [his book on Bayesian optimization](https://bayesoptbook.com/). It's a great resource on the topic; plus, the plots are pretty!
+
 __July 2021__: I was selected to receive the Honors distinction from the CSE department at WashU for exemplary Ph.D. research performance.
 
 __July 2021__: I had a great time meeting with the students from the BrightPath STEAM Academy and talking about my research on Bayesian machine learning for automating scientific discovery.
