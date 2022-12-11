@@ -1,11 +1,11 @@
 ---
-title: "Active Visual Analytics: Assisted Data Discovery in Interactive Visualizations via Active Search"
+title: "Guided Data Discovery in Interactive Visualizations via Active Search"
 collection: publications/
-permalink: /publication/monadjemi2020active
+permalink: /publication/monadjemi2020guided
 excerpt: 'We propose the Active Visual Analytics technique (ActiveVA), an augmentation of interactive visualizations with active search to aid data foraging and information extraction.'
-date: 2020-12-06
-venue: 'arXiv preprint'
-citation: 'Shayan Monadjemi, Quan Nguyen, Henry Chai, Roman Garnett, and Alvitta Ottley. Active Visual Analytics: Assisted Data Discovery in Interactive Visualizations via Active Search. <i>arXiv preprint arXiv:2010.08155</i>, 2020.'
+date: 2022-07-15
+venue: 'IEEE Visualization Conference (VIS)'
+citation: 'Shayan Monadjemi, Sunwoo Ha, Quan Nguyen, Henry Chai, Roman Garnett, and Alvitta Ottley. Active Visual Analytics: Assisted Data Discovery in Interactive Visualizations via Active Search. <i>IEEE Visualization Conference (VIS)</i>, 2020.'
 ---
 Data foraging is a process commonly arising in interactive data analysis where a user sifts through a large amount of potentially irrelevant information seeking data relevant to their task.
 In machine learning, the related task of active search considers the automated discovery of rare, valuable items from large databases and has delivered massive speedups in discovery in areas including drug and materials discovery.

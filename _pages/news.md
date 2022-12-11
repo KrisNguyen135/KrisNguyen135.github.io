@@ -9,6 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
+__December 2022__: I'm excited to be at NeurIPS 2022 to present our paper on a novel way of doing [_local Bayesian optimization_](https://arxiv.org/abs/2210.11662), which was selected as an oral!
+
+
+__December 2022__: I had an amazing time speaking at this year's [PyData Global](https://pydata.org/global2022) on using Bayesian optimization in practice.
+Most of the content was adopted my book [Bayesian Optimization in Action](https://www.manning.com/books/bayesian-optimization-in-action).
+
+__November 2022__: We released a new [preprint](https://arxiv.org/abs/2211.13066) on modeling the mixing thermodynamics of high-entropy alloys.
+
+__July 2022__: I'm very happy to be again selected to receive the Honors distinction from the CSE department at WashU for exemplary Ph.D. research performance.
+
+__April 2022__: I released the second edition of [Advanced Python Programming](https://www.amazon.com/Advanced-Python-Programming-Accelerate-techniques/dp/1801814015).
+Newly added materials include state-of-the-art Python libraries such as [Xarray](https://docs.xarray.dev/en/stable/) and [JAX](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html).
+
+__February 2022__: We released a new [preprint](https://arxiv.org/abs/2202.03593) on _multi-class active search_ for diverse discovery tasks.
+This work develops a machine learning method of uncovering a diverse set of targets among a large pool of unlabeled data.
+
 __November 2021__: Our paper on using _active search_ to discover photoswitches with high light absorbance was accepted to the _Journal of Chemical Information and Modeling_!
 
 __October 2021__: I had an amazing time speaking at this year's [PyData Global](https://pydata.org/global2021) on using Bayesian optimization on preference learning with pairwise comparisons.
