@@ -9,8 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-__December 2022__: I'm excited to be at NeurIPS 2022 to present our paper on a novel way of doing [_local Bayesian optimization_](https://arxiv.org/abs/2210.11662), which was selected as an oral!
+__March 2023__: I am starting a new position as a Student Researcher at Google Research and will be spending the next 6 months in Mountain View.
 
+__January 2023__: Our paper on diversity-aware active search has been accepted to AISTATS 2023!
+
+__December 2022__: I'm excited to be at NeurIPS 2022 to present our paper on a novel way of doing [_local Bayesian optimization_](https://arxiv.org/abs/2210.11662), which was selected as an oral!
 
 __December 2022__: I had an amazing time speaking at this year's [PyData Global](https://pydata.org/global2022) on using Bayesian optimization in practice.
 Most of the content was adopted my book [Bayesian Optimization in Action](https://www.manning.com/books/bayesian-optimization-in-action).

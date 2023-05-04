@@ -1,11 +1,11 @@
 ---
-title: "Nonmyopic Multiclass Active Search for Diverse Discovery"
+title: "Nonmyopic Multiclass Active Search with Diminishing Returns for Diverse Discovery"
 collection: publications
-permalink: /publication/nguyen2021nonmyopic
+permalink: /publication/nguyen2023nonmyopic
 excerpt: 'We extend the active search problem to the multiclass setting in which we aim to discover a diverse set of targets.'
 date: 2022-10-17
-venue: 'arXiv preprint'
-citation: 'Quan Nguyen and Roman Garnett. Nonmyopic Multiclass Active Search for Diverse Discovery. <i>arXiv preprint arXiv:2202.03593</i>, 2022.'
+venue: 'International Conference on Artificial Intelligence and Statistics'
+citation: 'Quan Nguyen and Roman Garnett. Nonmyopic Multiclass Active Search with Diminishing Returns for Diverse Discovery. <i>International Conference on Artificial Intelligence and Statistics (AISTATS)</i>, 2023.'
 ---
 Active search is a setting in adaptive experimental design where we aim to uncover members of rare, valuable class(es) subject to a budget constraint.
 An important consideration in this problem is diversity among the discovered targets – in many applications, diverse discoveries offer more insight and may be preferable in downstream tasks.
