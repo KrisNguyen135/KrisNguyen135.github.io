@@ -9,6 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+__August 2024__: I started my postdoc at [Vertaix](https://vertaix.princeton.edu/)!
+
+__July 2024__: Our paper on [active learning of convex hulls of materials](https://arxiv.org/pdf/2402.15582) is accepted to Materials Horizons.
+
+__June 2024__: First paper with Vertaix for [diverse experimental design](https://arxiv.org/pdf/2405.02449) is published at ICML.
+
+__June 2024__: I defended my Ph.D.!
+
+__November 2023__: [Bayesian Optimization in Action](https://www.manning.com/books/bayesian-optimization-in-action) is published.
+
 __March 2023__: I am starting a new position as a Student Researcher at Google Research and will be spending the next 6 months in Mountain View.
 
 __January 2023__: Our paper on diversity-aware active search has been accepted to AISTATS 2023!
