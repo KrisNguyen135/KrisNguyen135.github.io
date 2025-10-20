@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+__September 2025__: Building on Vendi information gain, we propose a new active learning policy for ecology. The preprint is available [here](https://arxiv.org/pdf/2509.10390?).
+
+__May 2025__: The preprint for [Vendi information gain](https://arxiv.org/pdf/2505.09007) is now public.
+
+__January 2025__: Our paper on [probabilistic modeling of metastable polymorph synthesizability](https://www.osti.gov/servlets/purl/2526218) is accepted to the Journal of the American Chemical Society.
+
+__October 2024__: Our paper on [Bayesian optimization for metal–organic frameworks](https://pubs.rsc.org/en/content/articlehtml/2024/sc/d4sc03609c) is accepted to Chemical Science.
+
 __August 2024__: I started my postdoc at [Vertaix](https://vertaix.princeton.edu/)!
 
 __July 2024__: Our paper on [active learning of convex hulls of materials](https://arxiv.org/pdf/2402.15582) is accepted to Materials Horizons.
