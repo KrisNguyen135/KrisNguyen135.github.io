@@ -33,4 +33,4 @@ __August 2024__: I started my postdoc at [Vertaix](https://vertaix.princeton.edu
 
 ___
 
-__[Last updated in September 2024]__
+__[Last updated in October 2025]__
