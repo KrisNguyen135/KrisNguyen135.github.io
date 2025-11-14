@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-__September 2025__: Building on Vendi information gain, we propose a new active learning policy for ecology. The preprint is available [here](https://arxiv.org/pdf/2509.10390?).
+__November 2025__: Building on Vendi information gain, we propose a new active learning policy for ecology. It will be presented at the AI2ASE workshop at AAAI 2026. The preprint is available [here](https://arxiv.org/pdf/2509.10390?).
 
 __May 2025__: The preprint for [Vendi information gain](https://arxiv.org/pdf/2505.09007) is now public.
+
+__April 2025__: Very honored to have received the [Turner dissertation award](https://engineering.washu.edu/news/2025/Nguyen-wins-2024-Turner-Dissertation-Award.html) for my Ph.D. thesis, "Experimental Design for Scientific Discovery."
 
 __January 2025__: Our paper on [probabilistic modeling of metastable polymorph synthesizability](https://www.osti.gov/servlets/purl/2526218) is accepted to the Journal of the American Chemical Society.
 
