@@ -5,7 +5,7 @@ permalink: /publication/nguyen2022local
 excerpt: 'We tackle local Bayesian optimization for high-dimensional problems and propose a novel and principled method maximizing the probability that we will make progres.'
 date: 2022-10-21
 venue: 'Advances in Neural Information Processing Systems (NeurIPS)'
-citation: 'Quan Nguyen, Kaiwen Wu, Jacob R. Gardner, and Roman Garnett. Local Bayesian optimization via maximizing probability of descent. <i>Advances in Neural Information Processing Systems (NeurIPS)</i>, 2022.'
+citation: 'Quan Nguyen*, Kaiwen Wu*, Jacob R. Gardner, and Roman Garnett. Local Bayesian optimization via maximizing probability of descent. <i>Advances in Neural Information Processing Systems (NeurIPS)</i>, 2022.'
 ---
 Local optimization presents a promising approach to expensive, high-dimensional black-box optimization by sidestepping the need to globally explore the search space.
 For objective functions whose gradient cannot be evaluated directly, Bayesian optimization offers one solution – we construct a probabilistic model of the objective, design a policy to learn about the gradient at the current location, and use the resulting information to navigate the objective landscape.
