@@ -34,4 +34,4 @@ __January 2025__: Our paper on [probabilistic modeling of metastable polymorph s
 
 ___
 
-__[Last updated in October 2025]__
+__[Last updated in July 2026]__
