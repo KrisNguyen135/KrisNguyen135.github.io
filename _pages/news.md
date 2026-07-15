@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+__August 2026__: I am starting my new job as an Assistant Professor of Computer Science at Fulbright University Vietnam!
+
 __November 2025__: Building on Vendi information gain, we propose a new active learning policy for ecology. It will be presented at the AI2ASE workshop at AAAI 2026. The preprint is available [here](https://arxiv.org/pdf/2509.10390?).
 
 __May 2025__: The preprint for [Vendi information gain](https://arxiv.org/pdf/2505.09007) is now public.
