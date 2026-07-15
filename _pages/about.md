@@ -17,7 +17,7 @@ My research interests are in Bayesian machine learning, active search, and gener
 I am also an avid programmer and a Python enthusiast.
 Aside from research, I often write about data science, scientific computing, and Python programming.
 
-My CV, last updated in October 2025, can be found [here](http://KrisNguyen135.github.io/files/quan_cv.pdf).
+My CV, last updated in July 2026, can be found [here](http://KrisNguyen135.github.io/files/quan_cv.pdf).
 My research statement can be found [here](http://KrisNguyen135.github.io/files/quan_research_statement.pdf).
 
 # Recent news
